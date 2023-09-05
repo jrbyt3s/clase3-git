@@ -1,7 +1,8 @@
-### Features
+### Clase GIT
 
-- Support Standard Markdown / CommonMark and GFM(GitHub Flavored Markdown);
-- Full-featured: Real-time Preview, Image (cross-domain) upload, Preformatted text/Code blocks/Tables insert, Code fold, Search replace, Read only, Themes, Multi-languages, L18n, HTML entities, Code syntax highlighting...;
+- familiarizando con los comandos git
+
+aqui subimos la linea de codigo:
 
 **HTML**
 
@@ -20,4 +21,6 @@ Estas lineas son codigo html
 </head>
 
 ```
+Esta es una imagen:
+
 ![](https://th.bing.com/th/id/OIP.o-wNqCyhGc3XpFMfCCFpigHaEK?pid=ImgDet&rs=1)
