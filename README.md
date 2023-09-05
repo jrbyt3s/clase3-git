@@ -82,6 +82,30 @@ crear una ram llamada dev:
   git checkout main
   git checkout dev
 ```
+### crear la rama develop y publicarlo en github
+```
+	git push origin develop
+```
+
+### hacer merge
+primero me cambio a la rama que no tiene los cambios
+y luego hago el merge.
+
+```
+	git checkout develop
+	hago los cambios en develop y luego ir a la rama main:
+	git add --all
+	git commit -m "Guardando los cambios"
+	git push origin main
+	git checkout main
+	git merge develop
+```
+
+### subir tag
+
+```
+	git push --tag
+```
 
 
 aqui subimos la linea de codigo:
