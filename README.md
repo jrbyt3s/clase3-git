@@ -96,7 +96,7 @@ y luego hago el merge.
 	hago los cambios en develop y luego ir a la rama main:
 	git add --all
 	git commit -m "Guardando los cambios"
-	git push origin main
+	git push origin develop
 	git checkout main
 	git merge develop
 ```
