@@ -30,6 +30,8 @@ Luego accdeder al directorio de trabajo
   ls
   git remote -v  
 ```
+### Renombra la rama:
+git branch -M main
 
 ### Agregar cambios:
 ```bash
@@ -63,8 +65,17 @@ Al hacer esto te solicitará tu usuario hithub y cuando solicite el password col
   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
 ```
 
-### Crear una Rama:
-crear una ram llamada dev:
+
+### CREAR UNA REAMA
+```bash
+git checkout -b NOMBRE-NUEVA-RAMA
+```
+### tambien se puede crear con:
+```bash
+git switch -c NOMBRE-NUEVA-RAMA
+``````
+
+crear una rama llamada dev:
 ```bash
   git checkout -b dev
 ```
